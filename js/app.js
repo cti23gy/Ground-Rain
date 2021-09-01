@@ -28,6 +28,7 @@ var rectangles = [ //bullets
     { x: 999, y: Math.random() * 500, w: 5, h: 45, speed: 15 }
 ]
 
+
 var ground = [
     { x: 0, y: 500, w: 500, h: 700, },
 ]
